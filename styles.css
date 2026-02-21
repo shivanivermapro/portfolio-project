@@ -235,6 +235,10 @@ a:hover {
   background: radial-gradient(circle at top, #131b3e 0, var(--bg-alt) 55%);
 }
 
+.projects-title {
+  color: #ffffff;
+}
+
 .section-title {
   font-family: "Montserrat", system-ui;
   font-size: 1.8rem;
